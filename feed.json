@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "2beards.design",
+    "description": "",
+    "home_page_url": "https://2beards-design.github.io/publii",
+    "feed_url": "https://2beards-design.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daniel Warcholik"
+    },
+    "items": [
+    ]
+}
